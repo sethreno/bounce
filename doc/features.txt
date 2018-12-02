@@ -1,0 +1,47 @@
+power-ups
+- shrink* (v3)
+- grow* (v3)
+- split* (v3)
+- shoot* (v3)
+speed
+slow
+super ball
+reverse control
+harden tiles
+strobe
+mystery
+
+effects
+- brick explosions (v6)
+
+- high-score tracking* (v4)
+
+- score leader-board* (v5)
+
+audio
+- sound (v6)
+asynchronous sound
+music
+
+brick types
+moving bricks
+ball-sparks
+- varying ball / player bounce angle (v7)
+
+- locked frame-rate (v7)
+- windowed / fullscreen switch (v7)
+- multiple resolution support (v7)
+4:3 - .75 - 800x600 - tested
+4:3 - .75 - 1024x768 - tested
+16:9 - .5625 - 1280x720
+? - .6 - 1280x768
+? - .625 - 1280x800 - tested
+? - .625 -1440x900
+
+- level editor (v7)
+
+multi player mode (tcp/ip)
+
+- controller support (v6)
+
+game options menu
